@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Emiliano Hotes  emi@hotes.com   @mrjouts
 
 # THANKS
 
